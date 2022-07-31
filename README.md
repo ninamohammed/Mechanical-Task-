@@ -58,14 +58,14 @@
 </li>
 </ul>
 <p class="has-line-data" data-line-start="43" data-line-end="44"><img src="https://user-images.githubusercontent.com/103388162/182036708-2483aaec-5d2a-42e3-8701-fca924471705.png" alt="Picture14"></p>
-<p class="has-line-data" data-line-start="45" data-line-end="48">Note:<br>
+<p class="has-line-data" data-line-start="45" data-line-end="48">__ <strong>Note:</strong> __<br>
 First: You must know the exact measurement of the bearing before you make the hole.<br>
 Second: There is a way to change the size of anything by clicking on the object then Press (S).</p>
 <ul>
 <li class="has-line-data" data-line-start="50" data-line-end="52">An example of sizing :</li>
 </ul>
 <p class="has-line-data" data-line-start="52" data-line-end="53"><img src="https://user-images.githubusercontent.com/103388162/182036773-264b0cb4-af2c-4174-ab59-081dc50f9d13.png" alt="Picture15"></p>
-<p class="has-line-data" data-line-start="54" data-line-end="56">Note:<br>
+<p class="has-line-data" data-line-start="54" data-line-end="56">__ <strong>Note:</strong> __<br>
 You can choose the place that you want to create by (Cursor Tool).</p>
 <p class="has-line-data" data-line-start="57" data-line-end="58"><img src="https://user-images.githubusercontent.com/103388162/182036841-d480b3a8-e23d-477f-b3d9-df2dd9a7e1c5.png" alt="Picture16"></p>
 <ul>
@@ -89,18 +89,22 @@ You can choose the place that you want to create by (Cursor Tool).</p>
 <p class="has-line-data" data-line-start="71" data-line-end="73">Then press on any space to get out of the selection then press (Alt + Shift) on the lines from the left middle lines to the right middle lines .<br>
 <img src="https://user-images.githubusercontent.com/103388162/182037130-2e85331a-497f-4051-a8d0-59c2654600c7.png" alt="Picture21"></p>
 </li>
-<li class="has-line-data" data-line-start="74" data-line-end="78">
-<p class="has-line-data" data-line-start="74" data-line-end="77">Then press ( i )<br>
-<img src="https://user-images.githubusercontent.com/103388162/182037173-e12f4812-3ee8-492b-a72a-c32a9e254d4a.png" alt="Picture22"><br>
-Then press (Enter)</p>
+<li class="has-line-data" data-line-start="74" data-line-end="76">
+<p class="has-line-data" data-line-start="74" data-line-end="76">Then press ( i )<br>
+<img src="https://user-images.githubusercontent.com/103388162/182037173-e12f4812-3ee8-492b-a72a-c32a9e254d4a.png" alt="Picture22"></p>
 </li>
-<li class="has-line-data" data-line-start="78" data-line-end="82">
-<p class="has-line-data" data-line-start="78" data-line-end="81">After that press (E) AND move the selected shape away back<br>
-<img src="https://user-images.githubusercontent.com/103388162/182037271-f6e66987-85d3-42f7-8f5d-b6e0b5edc8f2.png" alt="Picture23"><br>
-After that delete the extra shapes by pressing on every line of it and deleting every line</p>
+<li class="has-line-data" data-line-start="76" data-line-end="78">
+<p class="has-line-data" data-line-start="76" data-line-end="77">Then press (Enter)</p>
+</li>
+<li class="has-line-data" data-line-start="78" data-line-end="80">
+<p class="has-line-data" data-line-start="78" data-line-end="80">After that press (E) AND move the selected shape away back<br>
+<img src="https://user-images.githubusercontent.com/103388162/182037271-f6e66987-85d3-42f7-8f5d-b6e0b5edc8f2.png" alt="Picture23"></p>
+</li>
+<li class="has-line-data" data-line-start="80" data-line-end="82">
+<p class="has-line-data" data-line-start="80" data-line-end="81">After that delete the extra shapes by pressing on every line of it and deleting every line</p>
 </li>
 </ul>
-<p class="has-line-data" data-line-start="82" data-line-end="84">Note:<br>
+<p class="has-line-data" data-line-start="82" data-line-end="84">__    <strong>Note :</strong>  __<br>
 To delete press the right mouse then from the setting press</p>
 <p class="has-line-data" data-line-start="85" data-line-end="87"><img src="https://user-images.githubusercontent.com/103388162/182037346-1aebe95c-a080-456f-8a85-4f2a9c6f1d2a.png" alt="Picture24"><br>
 <img src="https://user-images.githubusercontent.com/103388162/182037371-ed3bc9a4-2cab-40ec-a16c-bf23e5030d01.png" alt="Picture25"></p>
